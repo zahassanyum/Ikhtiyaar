@@ -3,7 +3,7 @@
 
 *Ikhtiyaar* is an initiative to address the corruption and transparency issues prevalent in our system of government. According to the Corruption Perceptions Index (CPI) 2013, Pakistan ranked at a staggeringly low 127 among 175 countries which, both ironically and sadly, is still the best ranking we have been able to achieve so far. Since our last government, the statistics have improved a little, but there is still a need for more drastic measures to be taken on a government scale.
 
-The goal of this project is to provide a technological means for solving the aforementioned issues in our country, and hopefully collaborate with the KPK provincial government to aid us in implementing this in the future. The aim is to improve transparency, accountability and inclusiveness of government institutions and processes, and moreover, to allow for easy communication between the government institutions and the poor and marginalized people.
+The goal of this project is to provide a technological means for solving the aforementioned issues in our country, and to hopefully collaborate with the KPK provincial government to aid us in implementing this project in future. The aim is to improve transparency, accountability and inclusiveness of government institutions and processes, and moreover, to allow for easy communication between the government institutions and the poor and marginalized people.
 
 ## About the project
 A prototype for a website where users can give their feedback by posting their issues/complaints online and keep updated about other people’ problems and concerns in their area.
@@ -37,6 +37,6 @@ composer install
 Please note that you have to install [Composer](https://getcomposer.org/) in your system first.
 
 ## Developed by
-- Hassan Ahmed
+- [Hassan Ahmed] (http://hassanahmed.me)
 - Sadiq Khan
 - Salman Haider
