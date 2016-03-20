@@ -1,5 +1,5 @@
 # Ikhtiyaar
-*For the submission to __KPApps: The Khyber-Pakhtunkhwa Apps Challenge__*
+*For submission to __KPApps: The Khyber-Pakhtunkhwa Apps Challenge__*
 
 *Ikhtiyaar* is an initiative to address the corruption and transparency issues prevalent in our system of government. According to the Corruption Perceptions Index (CPI) 2013, Pakistan ranked at a staggeringly low 127 among 175 countries which, both ironically and sadly, is still the best ranking we have been able to achieve so far. Since our last government, the statistics have improved a little, but there is still a need for more drastic measures to be taken on a government scale.
 
