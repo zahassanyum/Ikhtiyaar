@@ -35,8 +35,3 @@ composer install
 ```
 
 Please note that you have to install [Composer](https://getcomposer.org/) in your system first.
-
-## Developed by
-- [Hassan Ahmed] (http://hassanahmed.me)
-- Sadiq Khan
-- Salman Haider
